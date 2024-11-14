@@ -981,7 +981,7 @@ a.ui-button:active,
 .ui-widget-header .ui-state-highlight {
 	border: 1px solid #ffdb1f;
 	background: #fafafa;
-	color: #333333;
+	color: rgba(44,255,101,1.00);
 }
 .ui-state-checked {
 	border: 1px solid #ffdb1f;
