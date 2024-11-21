@@ -216,7 +216,7 @@ body{
 		/*float: left;*/
 		margin-top: 20px;
 		margin-right: 30px;
-		margin-left: 20px;*/
+		margin-left: 20px;
 		background-color: rgba(251,139,141,0.48);
 		padding-right: 10px;
 	/*	align-content: center;
@@ -496,6 +496,9 @@ form textarea{
     width: 1025px;
     height: 800px;
 }
+
+
+
 
 /**********************noticias*****************************/
 
